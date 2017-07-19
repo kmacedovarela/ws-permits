@@ -4,7 +4,7 @@ Two simple endpoints exposed by WildFly Swarm using JPA, JAX-RS and CDI
 
 Developed mainly to be consumed by a BPMN2 process. More info [here](https://github.com/kmacedovarela/advanced-bpmn2-process). 
 
-Electrical and Structural permits can be in status INPROGRESS, APPROVED or DENIED.
+Electrical and Structural permits can be in status `INPROGRESS`,`APPROVED` or `DENIED.
 
 ## Pre reqs
 * Maven 
