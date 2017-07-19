@@ -18,7 +18,9 @@ Electrical and Structural permits can be in status `INPROGRESS`,`APPROVED` or `D
 ## Use
 APIs will be available at:
 	
-```GET http//localhost:8080/electricalpermit/{id}
+```
+GET http//localhost:8080/electricalpermit/{id}
 GET http//localhost:8080/structuralpermit/{id}
 PUT http//localhost:8080/electricalpermit/{id}/{status}
-PUT http//localhost:8080/structuralpermit/{id}/{status}```
+PUT http//localhost:8080/structuralpermit/{id}/{status}
+```
